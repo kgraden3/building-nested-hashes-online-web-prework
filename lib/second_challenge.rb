@@ -5,7 +5,7 @@ def second_challenge
       :matriarch => "Lady Montague"
       :hero => "Romeo"
       :hero_friends => ["Benvolio", "Mercutio"]
-      }, 
+      },
     :capulet => {
       :patriarch => "Lord Capulet"
       :matriarch => "Lady Capulet"
@@ -13,5 +13,5 @@ def second_challenge
       :hero_friends => ["Steven", "Nurse"]
       }}
 
-  
+
 end
